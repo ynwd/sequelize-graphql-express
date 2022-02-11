@@ -1,0 +1,3 @@
+CREATE DATABASE sge_dev;
+CREATE DATABASE sge_test;
+CREATE DATABASE sge_prod;
